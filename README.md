@@ -32,13 +32,17 @@ display a paginated list of users, and provide functionalities for editing and d
 * Responsive design using Tailwind CSS.
 * Persistent login token storage.
 
-## Technologies Used
+## Technologies Used 🌐
 
 * React
 * React Router
 * Axios (for API requests)
 * Tailwind CSS (for styling)
 * Vite (for fast development build)
+
+## Login Page Preview 😊
+
+<img src="https://github.com/Abhishek5165/EmployWise/blob/main/Demo/Login.png">
 
 ## Installation and Setup
 
@@ -142,3 +146,13 @@ npm run dev
 ## License
 
 * This project is licensed under the MIT License.
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+## Contact 🌟
+If you have any query or feedback, feel free to reach out 💖:
+- LinkedIn : https://www.linkedin.com/in/abhishek-verma-600899247/
+- GitHub : https://github.com/Abhishek5165
+
